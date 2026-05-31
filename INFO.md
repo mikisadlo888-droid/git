@@ -1,0 +1,4 @@
+# zadanie_git
+## Cel - zaliczenie z systemu kontroli wersji Git
+## Lista autorów:
+- Mikołaj Sadło
