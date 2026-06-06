@@ -8,3 +8,4 @@ Link: https://github.com/mikisadlo888-droid/git
 Ignorowany plik: sekret.txt
 >>>>>>> origin/main
 Link: https://github.com/mikisadlo888-droid/git
+Ignorowany plik: sekret.txt
