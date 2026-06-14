@@ -8,3 +8,4 @@
 # git
 >>>>>>> origin/main
 Link:  https://github.com/mikisadlo888-droid/git
+Ignorowany plik: notatki.txt
